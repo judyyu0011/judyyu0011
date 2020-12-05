@@ -24,5 +24,7 @@ I'm currently working as a Software QA Analyst Co-op at Copperleaf Technologies 
 I'm passionate about travelling!
 
 I can be reached at:
+
 Email: judyyu0011@gmail.com
+
 LinkedIn: linkedin.com/in/judyztyu/
