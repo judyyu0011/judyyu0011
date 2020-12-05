@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - passionate about travelling!
 
-#### I can be reached at:
+#### I can be reached at ...
 
 Email: judyyu0011@gmail.com
 
