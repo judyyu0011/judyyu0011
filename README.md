@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 
 (she/her)
 
-#### I'm ...
+#### I am ...
 
 - a third year student studying Computer Science and Business at the University of British Columbia.
 
 - currently working as a Software QA Analyst Co-op at Copperleaf Technologies in Vancouver. 
 
 - passionate about travelling!
-
-<br/><br/>
 
 #### I can be reached at:
 
