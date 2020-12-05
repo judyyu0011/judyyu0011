@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 judyyu0011@gmail.com
 
-[my LinkedIn](https://www.linkedin.com/in/judyztyu/)
+LinkedIn: [linkedin.com/in/judyztyu/](https://www.linkedin.com/in/judyztyu/)
