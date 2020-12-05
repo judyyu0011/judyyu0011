@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 #### I can be reached at:
 
-judyyu0011@gmail.com
+Email: judyyu0011@gmail.com
 
 LinkedIn: [linkedin.com/in/judyztyu/](https://www.linkedin.com/in/judyztyu/)
