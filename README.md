@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Judy Yu
+### Hi there 👋 I'm Judy Yu
 
 <!--
 **judyyu0011/judyyu0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
