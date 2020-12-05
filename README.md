@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Judy Yu
+### Hi there 👋   I'm Judy Yu
 
 <!--
 **judyyu0011/judyyu0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +17,18 @@ Here are some ideas to get you started:
 
 (she/her)
 
-I'm a third year student studying Computer Science and Business at the University of British Columbia.
+#### I'm ...
 
-I'm currently working as a Software QA Analyst Co-op at Copperleaf Technologies in Vancouver. 
+- a third year student studying Computer Science and Business at the University of British Columbia.
 
-I'm passionate about travelling!
+- currently working as a Software QA Analyst Co-op at Copperleaf Technologies in Vancouver. 
 
-I can be reached at:
+- passionate about travelling!
 
-Email: judyyu0011@gmail.com
+<br/><br/>
 
-LinkedIn: linkedin.com/in/judyztyu/
+#### I can be reached at:
+
+judyyu0011@gmail.com
+
+[my LinkedIn](https://www.linkedin.com/in/judyztyu/)
