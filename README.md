@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - a third year student studying Computer Science and Business at the University of British Columbia.
 
-- currently working as a Software QA Analyst Co-op at Copperleaf Technologies in Vancouver. 
+- currently working as a Software Developer Co-op at Copperleaf Technologies in Vancouver. 
 
 - passionate about travelling!
 
