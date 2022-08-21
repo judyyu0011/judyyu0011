@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 #### I am ...
 
-- a third year student studying Computer Science and Business at the University of British Columbia.
+- a fourth year student studying Computer Science and Business at the University of British Columbia.
 
-- currently working as a Software Developer Co-op at Copperleaf Technologies in Vancouver. 
+- currently working as a Software Engineer Intern at Microsoft in Redmond, WA. 
 
 - passionate about travelling!
 
