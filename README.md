@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 #### I am ...
 
-- a fourth year student studying Computer Science and Business at the University of British Columbia.
-
-- currently working as a Software Engineer Intern at Microsoft in Redmond, WA. 
+- currently working as a Software Engineer at Microsoft in Redmond, WA. 
 
 - passionate about travelling!
 
